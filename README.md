@@ -1,4 +1,4 @@
-# D3-Challenge
+# D3-Scatterplot
 
 1)  Defining the svg parameters at the top of the page.
 
@@ -9,3 +9,5 @@
 4)  On the scatter plot, 'x' and 'y' attributes of the circle and text had to match, so that the text appeared inside the circles.  Text font size matches circle size.
 
 5)  The X and Y labels had attributes setup to appear to the left and below the graph and the key variable assigned to the label name.
+
+![image](https://user-images.githubusercontent.com/80318883/132767103-38f3d922-90d9-4d51-938e-87ed9bd976fa.png)
